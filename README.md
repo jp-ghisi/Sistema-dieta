@@ -326,7 +326,3 @@ Algumas melhorias que podem ser adicionadas futuramente:
 - separação do código em múltiplos arquivos;
 - uso de propriedades com `@property`;
 - cálculo automático dos macronutrientes ideais.
-
-## Autor
-
-Projeto desenvolvido como exercício de programação em Python, utilizando orientação a objetos e banco de dados SQLite.
